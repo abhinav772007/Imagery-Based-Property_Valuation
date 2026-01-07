@@ -14,7 +14,6 @@ Imagery-Based-Property_Valuation/
 │   └── cleaned_tabular1.csv         # Preprocessed tabular data
 ├── fetch.py                        # Script to download satellite images from ArcGIS
 ├── preprocessing.ipynb             # Data preprocessing and feature engineering
-├── embeddings.ipynb                # Image embedding extraction
 ├── model.ipynb                     # Model training and evaluation
 ├── EDA.ipynb                       # Exploratory data analysis
 ├── requirements.txt                # Python dependencies
