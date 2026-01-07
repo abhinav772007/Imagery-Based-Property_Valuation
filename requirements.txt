@@ -1,0 +1,9 @@
+numpy 
+pandas
+scikit-learn
+torch 
+torchvision 
+tqdm 
+pillow 
+requests 
+openpyxl
